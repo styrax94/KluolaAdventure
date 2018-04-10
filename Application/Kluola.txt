@@ -1,0 +1,299 @@
+6
+1
+1
+General's Headquarters
+****
+2
+You wake up in your room. The room is warm, the bed is at the far side of the room beside the wall.
+ A sword is hanging on the wall adjacent to the bed and a shield resting below it. 
+A map of Kluola is hanging on the oposite wall.
+****
+1
+General Styrax: Ok, I am awake, come in soldier. 
++
+*the door opens* 
++
+Soldier: Sir!, The Princess was abducted by the Goblin King. The king has ordered you to Rescue her. 
++
+General Styrax: Tell the King that i shall rescue the princess. 
++
+Soldier: Good luck sir, remember to take your gear before you leave.
++
+Soldier: and Sir, type "Help" if you need to see your available commands.
++
+****
+The room is warm, the bed is at the far side of the room beside the wall. You can see the mount where
+your sword used to hang on the wall adjacent to the bed. 
+A map of Kluola is hanging on the oposite wall.
+****
+1
+Soldier: You must hurry General, Princess Kaly needs you!
++ 
+Soldier: Remember, type "Help" if you need assistance.
++
+****
+2
+NORTH 2 
++
+Soldier: You cannot leave without your gear, you need it to defeat the Goblin king.
+===
+****
+<>
+SWORD
+Steel sword
+===
+A steel Sword with a gold handle. The gold colored handle endicates a General rank in the Kluolan army. 
+===
+3 
++
+<>
+SHIELD
+Knight's shield
+===
+A steel shield, you notice the emblem of Kluola at the center of the shield. The shield is a part of the gear used by the Kluolan Army.
+===
+3 
++
+****
+----
+****
+2
+2
+Crossroads
+****
+2
+You are at a crossroads, to the north you can see the entrance of the shadow forest, to the west.. there is an Enemy blocking the way to the west.
+****
+0
+You are at a crossroads, to the north you can see the entrance of the shadow forest, to the west you can see and old altar.
+****
+0
+2
+NORTH 4
+ -
+dummy text
+===
+WEST 3 
+-
+General Styrax: There is an Enemy in the way, i better BATTLE it first.
+===
+SOUTH 1
+-
+*no items needed*
+****
+><
+****
+###
+ENEMY
+Goblin
+===
+Goblin: ergh.. you .. will pay.. for this human! My king.. will avenge me! ughh...
+===
+Goblin: HAHAHA! stupid Human, die!! HAHAHA!
+===
+20
+9
+1
+WEST
+<>
+POTION
+Red Potion
+===
+A glass small bottle with red liquid inside, if you USE this, you will regain health.
+===
+20
+You have regained 20 health!
+===
+<>
+HINT
+Hint Paper
+===
+A blank paper, if you USE this, it will leave words with valuable information.
+===
+0
+Characters flew out of the Paper and formed "There cannot be any witness of fallen water when the heavens have not blessed us with any"
+===
+****
+3
+2
+Altar of Light
+****
+2
+You enter an altar, the altar is well lit by the light piercing through the big windows of the building. At the center you see a statue of an angel holding a transparent orb, you can feel the orb's warmth.
+****
+0
+You enter an altar, the altar is well lit by the light piercing through the big windows of the building. At the center you see a statue of an angel.
+****
+0
+2
+EAST 2
+ >
+General Styrax: I should not leave this room yet, call it a General's hunch.
+****
+<>
+ORB
+Orb of Light
+===
+A cyrstal orb, you can feel its radiating warmth. Looks like it has alot of light stored in it.
+===
+4 
+>
+****
+###
+ENEMY
+Goblin
+===
+Goblin: Dam you! my ambush did not work.. 
+===
+Goblin: No way i was letting you take such a shiny thing kyahaha!
+===
+20
+9
+1
+FORCED
+<>
+POTION
+Red Potion
+===
+A glass small bottle with red liquid inside, if you USE this, you will regain health.
+===
+20
+You have regained 20 health!
+===
+<>
+HINT
+Hint Paper
+===
+A blank paper, if you USE this, it will leave words with valuable information.
+===
+0
+Characters flew out of the Paper and formed "Where once was dark, now is light, yell NORTH for a challenge and a prize"
+===
+****
+4
+3
+Shadow Forest
+****
+2
+The light is shining cleansing the Forest. Forest creatures gather around in glee, some are running around the trees, some are drinking water from a puddle.
+****
+0
+The light is shining cleansing the Forest. Forest creatures gather around in glee, some are running around the trees, some are drinking water from a puddle.
+****
+0
+3
+WEST 6
+ -
+*no items needed*
+===
+SOUTH 2
+-
+*no items needed*
+===
+NORTH 4
+-
+*no items needed*
+****
+<>
+PUDDLE
+Puddle to Mystery World
+===
+It is just a random pu.. hmm how, it has not rained? The water in the puddle begins to rise and swallows General Styrax.
+===
+5 
+-
+****
+###
+ENEMY
+Goblin
+===
+Goblin: nooo!! you found me.. tsk.. erghh..
+===
+Goblin: My king will reward me for killing you, kyahaha
+===
+20
+9
+1
+NORTH
+<>
+POTION
+Yellow Potion
+===
+A glass small bottle with yellow liquid inside, if you USE this, you will increase your max health.
+===
+15
+You have increased your max health by 15
+===
+****
+5
+0
+Mystery World
+****
+2
+Theres only white all around, no exit, no sound just an emptiness voi... oh look! there is Sword right there in the middle.
+****
+1
+General Styrax: Woahh.. What was that? Where am i? Oh look a sword! :D
++
+****
+White soundless room, there is nothing here.
+****
+0
+2
+FORCED 4
+ +
+*no description*
+****
+<>
+SWORD
+Diamond sword
+===
+A very beautiful sword, you can feel the power its emitting.
+===
+10 
++
+****
+---
+****
+6
+0
+Goblin King's Lair
+****
+2
+They are skeletons all over the place, if they haven't eaten the Princess yet, she might already be dead because of the stench.
+****
+1
+General Styrax: Where is the princess?!
++
+Gobling King: Simple Human, that is of no concern to you! Come at me if you think you are ready.
++
+****
+They are skeletons all over the place, if they haven't eaten the Princess yet, she might already be dead because of the stench.
+****
+1
+General Styrax: Where is the princess?!
++
+Gobling King: Simple Human, that is of no concern to you! Come at me if you think you are ready.
++
+****
+2
+EAST 4
+ -
+*no items needed*
+===
+****
+><
+****
+###
+BOSS
+Goblin King
+===
+Goblin King: urghh...muahaha.. ur too late.. urghh.. The Ancient One already has her..
+===
+Goblin: pfftt.. no match.. Kluolan Scum.
+===
+54
+10
+3
+WEST
+****
